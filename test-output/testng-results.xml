@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-26T19:27:18 IST" name="Default suite" finished-at="2026-01-26T19:27:18 IST" duration-ms="890">
+    <groups>
+    </groups>
+    <test started-at="2026-01-26T19:27:18 IST" name="Default test" finished-at="2026-01-26T19:27:18 IST" duration-ms="890">
+      <class name="selenium.ExcelDrivenTest">
+        <test-method signature="testSampleDatatoTestCase(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.ExcelDrivenTest@65f095f8]" started-at="2026-01-26T19:27:18 IST" name="testSampleDatatoTestCase" data-provider="getData" finished-at="2026-01-26T19:27:18 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ews]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rew]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dfhg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSampleDatatoTestCase -->
+        <test-method signature="testSampleDatatoTestCase(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.ExcelDrivenTest@65f095f8]" started-at="2026-01-26T19:27:18 IST" name="testSampleDatatoTestCase" data-provider="getData" finished-at="2026-01-26T19:27:18 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Purchase]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[saxg]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[fsnet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSampleDatatoTestCase -->
+        <test-method signature="testSampleDatatoTestCase(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.ExcelDrivenTest@65f095f8]" started-at="2026-01-26T19:27:18 IST" name="testSampleDatatoTestCase" data-provider="getData" finished-at="2026-01-26T19:27:18 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Add Profile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hiut]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dgmh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[spymn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSampleDatatoTestCase -->
+        <test-method signature="testSampleDatatoTestCase(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.ExcelDrivenTest@65f095f8]" started-at="2026-01-26T19:27:18 IST" name="testSampleDatatoTestCase" data-provider="getData" finished-at="2026-01-26T19:27:18 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Delete Profile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rt]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dmho]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSampleDatatoTestCase -->
+      </class> <!-- selenium.ExcelDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
